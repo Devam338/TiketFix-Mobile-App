@@ -318,7 +318,7 @@ const s = StyleSheet.create({
   divider:      { height: 1, backgroundColor: C.divider, marginBottom: 10 },
   cardBody:     { gap: 6 },
   bodyRow:      { fontFamily: F.regular, fontSize: 12, color: "#6D6D6D", letterSpacing: 1.2 },
-  bodyBold:     { fontFamily: F.bold, fontSize: 12, color: "#6D6D6D", letterSpacing: 1.2 },
+  bodyBold:     { fontFamily: F.bold, fontSize: 12, color: "#6D6D6D", letterSpacing: 1.2 }, 
 
   // Tab bar
   tabBar:         { flexDirection: "row", backgroundColor: C.white, borderTopWidth: 1, borderTopColor: "#C8DCE8", paddingTop: 10, paddingBottom: 6, alignItems: "center" },
