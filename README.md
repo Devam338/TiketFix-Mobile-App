@@ -4,6 +4,10 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 <img width="388" height="814" alt="Screenshot 2026-04-16 at 10 31 27 AM" src="https://github.com/user-attachments/assets/019ef91d-6cfe-4995-821e-0bee6415e34e" />
 
+https://github.com/user-attachments/assets/59f4dff8-193a-454d-889a-2ec88e91b915
+
+
+
 ## Get started
 
 1. Install dependencies
